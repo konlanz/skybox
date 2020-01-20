@@ -1,0 +1,116 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background:#ffc909;
+  color: #FFFfFF;
+  height: auto;
+  width: auto;
+ 
+}
+.navbar navbar-dark bg-dark{
+  background: #ffc909;
+}
+a {
+  color: #00B7FF;
+}
+.card-img-top{
+  width: 100%;
+}
+
+.inpt{
+  height: 35px;
+  border-radius: 20px;
+  width: 100%;
+  background:#FFC909;
+  border: #FFFfFF solid 3px;
+  text-align: center;
+}
+.imgd{
+  border-radius: 300px;
+  width: 70px;
+  height: 80px;
+  background: #FFC909;
+  margin-bottom: 0px;
+}
+.sibtn{
+  width: 100%;
+  border-radius: 18px;
+  height: 35px;
+  border: #FFFfFF solid 3px;
+  background: #FFFfFF;
+}
+.snn{
+  width: 100%;
+  background: #FFC909;
+  border-radius: 18px;
+  height: 35px;
+  border: #FFC909 solid 3px;
+  color: #FFFfFF;
+}
+.material-icons.md-48 { 
+  font-size: 60px;
+  color: rgba(27, 24, 24, 0.548);
+ }
+ .input-icons i { 
+  position: absolute; 
+  margin-left: 10px;
+  margin-top: 7px;
+  margin-bottom: 5px;
+}
+.input-icons { 
+  width: 100%; 
+  margin-bottom: 10px; 
+} 
+.sbtn{
+  width: 100%;
+  border-radius: 18px;
+  height: 35px;
+  border:#FFC909 solid 3px;
+  background: #FFC909;
+  color: #FFFfFF;
+}
+.cir{
+  border: #FFFfFF solid 3px;
+  border-radius: 300px;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background: #FFFfFF;
+}
+.mainbody{
+  max-width: 450px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  
+
+}
+.lodo{
+  text-align: center;
+}
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.btn {
+  border: 2px solid #FFFfFF;
+  color: gray;
+  background-color: white;
+  padding: 8px 20px;
+  border-radius: 18px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}

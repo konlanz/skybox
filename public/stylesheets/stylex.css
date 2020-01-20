@@ -1,0 +1,64 @@
+.mainnav{
+    background:#FFC909;
+    color: #FFFFFF;
+    height: 100px;
+}
+
+.profil{
+    background: #47b5be;
+    color: #FFFFFF;
+}
+.material-icons.md-48 { 
+    font-size: 75px;
+    color: #47B5BE;
+    background: #FFFFFF;
+    margin: 15px;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+
+   }
+   li .material-icons{
+    background: red;
+    color: #FFFFFF;
+    position: relative;
+}
+   .material-icons{
+    background: #FFC909;
+    color: #FFFFFF;
+}
+   a .material-icons{
+       background: rgb(214, 211, 211);
+       color:#FFC909;
+       border-radius: 40px;
+       margin:5px;
+   }
+.pduct{
+    background: #47B5BE;
+    height: 100%;
+}
+
+.subp{
+    background: #47B5BE;
+    border: #47B5BE solid 8px;
+    margin: 5px;
+}
+
+.navbar-custom{
+    background: #FFC909;
+    color: #FFFFFF;
+}
+
+.pdata{
+    text-align: right;
+    
+}
+.tmx{
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.cir{
+    margin-left: 15px;
+}
