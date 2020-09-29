@@ -11,7 +11,7 @@
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "express-session": "*",
-    "http-errors": "~1.6.3",
+    "http-errors": "~1.8.0",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.7",
     "morgan": "~1.9.1",
